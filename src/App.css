@@ -1,0 +1,12 @@
+
+input:focus {
+  box-shadow: 0 0 0 0.2rem rgba(25, 135, 84, 0.25);
+}
+
+.card {
+  border: none;
+}
+
+.btn-success:hover {
+  background-color: #198754cc;
+}
