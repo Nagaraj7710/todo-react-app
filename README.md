@@ -11,7 +11,7 @@ A simple and responsive to-do list built using **React** and **Bootstrap**.
 ## 💻 How to Run
 
 ```bash
-git clone https://github.com/your-username/todo-react-app.git
-cd todo-react-app
+git clone https://github.com/Nagaraj7710/todo-react-app.git
+cd to-do
 npm install
 npm start
